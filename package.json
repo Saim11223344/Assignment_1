@@ -22,13 +22,13 @@
     "popper.js": "^1.16.1"
   },
   "description": "��#\u0000 \u0000A\u0000s\u0000s\u0000i\u0000g\u0000n\u0000m\u0000e\u0000n\u0000t\u0000_\u00001\u0000\r\u0000 \u0000",
-  "main": "app.js",
+  "main": "index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Saim11223344/Assignment_1.git"
   },
-  "author": "",
+  "author": "Saim Ali",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Saim11223344/Assignment_1/issues"
