@@ -1,6 +1,8 @@
 /* custom css goes here */
 /*Main contents*/
-
+body{
+    background-color: #eaad62;
+}
 #main{
     display: flex;
     padding: 15px;
@@ -57,7 +59,7 @@ footer {
 
 h1 {
     text-align: center;
-    color: red;
+    color: #fff;
 
 }
 
@@ -114,4 +116,10 @@ p{
 }
 #detail{
     font-size: large;
+}
+.table>:not(caption)>*>* {
+    padding: 0.5rem 0.5rem;
+    background-color: #ffffff9e;
+    border-bottom-width: 1px;
+    box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
 }
